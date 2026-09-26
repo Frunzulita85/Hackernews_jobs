@@ -8,9 +8,9 @@ from email.mime.text import MIMEText
 # ================= CONFIGURARE E-MAIL =================
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-SENDER_EMAIL = "calinfrunza85@gmail.com"
-SENDER_PASSWORD = "cryy snng czik govc"  # App Password generată din contul Google
-RECIPIENT_EMAIL = "calinfrunza85@gmail.com"  # Unde vrei să primești alertele
+SENDER_EMAIL = "your_email@gmail.com"
+SENDER_PASSWORD = "your password"  # App Password generată din contul Google
+RECIPIENT_EMAIL = "your_email@gmail.com"  # Unde vrei să primești alertele
 
 SEEN_JOBS_FILE = "seen_jobs.txt"
 
